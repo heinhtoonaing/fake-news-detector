@@ -21,3 +21,5 @@ Includes confidence scores and colorful feedback.
 Run the app:
 
 streamlit run app.py
+
+Try using link: https://fakenewdetector.streamlit.app/
