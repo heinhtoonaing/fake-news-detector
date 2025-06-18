@@ -16,7 +16,7 @@ Includes confidence scores and colorful feedback.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YourUsername/fake-news-detector.git
+   git clone https://github.com/heinhtoonaing/fake-news-detector.git
    cd fake-news-detector
 Run the app:
 
